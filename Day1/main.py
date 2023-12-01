@@ -52,6 +52,6 @@ def run(calibration_mapper):
     print(f"Result: {s}")
 
 # part 1
-# run(get_calibration_value)
+run(get_calibration_value)
 #part 2
 run(get_calibration_value_from_words_and_nums)
