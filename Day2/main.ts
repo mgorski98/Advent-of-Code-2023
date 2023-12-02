@@ -56,5 +56,5 @@ function part2() {
     console.log(powerSum);
 }
 
-// part1();
+part1();
 part2();
