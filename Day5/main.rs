@@ -10,6 +10,14 @@ fn read_lines(filename: &str) -> Vec<String> {
     result
 }
 
+fn part1(input: &Vec<String>){
+
+}
+
+fn part2(input: &Vec<String>) {
+
+}
+
 fn main(){
     let lines = read_lines("input.txt");
     for line in lines{
